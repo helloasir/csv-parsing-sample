@@ -1,0 +1,5 @@
+[build]
+  publish="dist/"
+  command="npm run build"
+[template.environment]
+  SECRET_TOKEN = "change me for your secret token"
